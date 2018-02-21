@@ -1,0 +1,15 @@
+hobbies
+family
+sports
+shows
+movies
+music
+work
+school
+travel
+nature
+games
+entertainment
+food
+past
+future plans
